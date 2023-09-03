@@ -1,6 +1,5 @@
 
 import 'dart:math';
-
 import 'package:flutter/material.dart';
 
 // From: https://mixable.blog/flutter-how-to-create-a-better-materialcolor-from-color/#:~:text=To%20create%20a%20MaterialColor%20from,the%20Color%20of%20that%20shade.
